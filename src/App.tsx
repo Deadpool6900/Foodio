@@ -1,13 +1,13 @@
 // import React from 'react'
 
 import HomePage from "../src/Pages/HomePage"
-import Menu from "../src/Pages/Menu"
+// import Menu from "../src/Pages/Menu"
 
 const App = () => {
 	return (
 		<div>
 			<HomePage/>
-            {/* <Menu/> */}
+
 		</div>
 	)
 }
